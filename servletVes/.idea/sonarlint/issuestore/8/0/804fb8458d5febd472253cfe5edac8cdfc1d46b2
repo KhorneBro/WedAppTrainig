@@ -1,0 +1,9 @@
+
+`squid:UselessImportCheck"<Remove this unused import 'javax.servlet.RequestDispatcher'.(Ëöò¼
+?squid:S1989"(Add a "try/catch" block for "getWriter".(¼½Ù†
+˜squid:S11861"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚“¶î
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ýýé­
+@squid:S1989-"$Add a "try/catch" block for "doGet".(—ôÖ¢øÿÿÿÿ
+@squid:S1989-"$Add a "try/catch" block for "doGet".(—ôÖ¢øÿÿÿÿ
+Hsquid:S1481!",Remove this unused "docType" local variable.(ðÐºÝøÿÿÿÿ
+fsquid:S1192"HDefine a constant instead of duplicating this literal "SndName" 3 times.(Ó©ÕÒ8Õ…÷´Ï-

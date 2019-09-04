@@ -1,0 +1,14 @@
+
+isquid:S00116"RRename this field "SndName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¯õ9
+tsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(´Ùòúÿÿÿÿ
+nsquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Á¯õ9
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+tsquid:S2226
+"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(É¬­Áøÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ
+lsquid:S00116
+"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬­Áøÿÿÿÿ
+]squid:UselessImportCheck"9Remove this unused import 'javax.servlet.ServletContext'.(á¡æŞ
+_squid:UselessImportCheck";Remove this unused import 'javax.servlet.ServletException'.(Š‰™Œ
+gsquid:UselessImportCheck"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë
+fsquid:UselessImportCheck"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…
