@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            <state relative-caret-position="320">
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -43,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/Start.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+            <state relative-caret-position="160">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -52,10 +52,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/main/java/Session.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+            <state relative-caret-position="452">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/main/java/Filter1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#866#867#0" expanded="true" />
+                <element signature="e#919#920#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/main/java/web3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="220">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -76,8 +90,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Class" />
         <option value="HTTP Request" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -104,8 +118,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/.idea/main/java/bean/Session.java" />
         <option value="$PROJECT_DIR$/web/SecondPage.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/.idea/main/java/Filter.java" />
         <option value="$PROJECT_DIR$/web/Start.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/.idea/main/java/Filter1.java" />
         <option value="$PROJECT_DIR$/.idea/main/java/Session.java" />
         <option value="$PROJECT_DIR$/.idea/main/java/web3.java" />
       </list>
@@ -145,8 +161,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="175" />
-    <option name="y" value="101" />
+    <option name="x" value="280" />
+    <option name="y" value="84" />
     <option name="width" value="1506" />
     <option name="height" value="919" />
   </component>
@@ -156,7 +172,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,6 +212,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,8 +220,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567583576511" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567596431245" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/servletVes" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -234,9 +250,9 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.22" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.22" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8082/servletVes_war_exploded" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/servletVes_war_exploded" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
-      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="servletVes:war exploded">
           <settings>
@@ -246,7 +262,7 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_servletVes" />
-        <option name="HTTP_PORT" value="8082" />
+        <option name="HTTP_PORT" value="8081" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -349,11 +365,51 @@
       <workItem from="1567584315884" duration="159000" />
       <workItem from="1567584477538" duration="116000" />
       <workItem from="1567584596084" duration="278000" />
+      <workItem from="1567584876603" duration="808000" />
+      <workItem from="1567592523875" duration="3664000" />
+      <workItem from="1567596529683" duration="117000" />
+      <workItem from="1567596649922" duration="232000" />
+      <workItem from="1567596884087" duration="176000" />
+      <workItem from="1567597062176" duration="1857000" />
+      <workItem from="1567600221457" duration="315000" />
+      <workItem from="1567600539042" duration="188000" />
+      <workItem from="1567600729320" duration="104000" />
+      <workItem from="1567600835291" duration="498000" />
+      <workItem from="1567601337958" duration="251000" />
+      <workItem from="1567601591987" duration="606000" />
+      <workItem from="1567602201942" duration="72000" />
+      <workItem from="1567602275364" duration="105000" />
+      <workItem from="1567602382917" duration="199000" />
+      <workItem from="1567602584619" duration="33000" />
+      <workItem from="1567602620043" duration="65000" />
+      <workItem from="1567602687771" duration="79000" />
+      <workItem from="1567602769205" duration="110000" />
+      <workItem from="1567602881821" duration="44000" />
+      <workItem from="1567602930262" duration="61000" />
+      <workItem from="1567602993589" duration="728000" />
+      <workItem from="1567603724769" duration="86000" />
+      <workItem from="1567603812745" duration="107000" />
+      <workItem from="1567603921481" duration="60000" />
+      <workItem from="1567603983511" duration="171000" />
+      <workItem from="1567604158086" duration="81000" />
+      <workItem from="1567604241138" duration="357000" />
+      <workItem from="1567604600599" duration="461000" />
+      <workItem from="1567605064798" duration="49000" />
+      <workItem from="1567605115373" duration="83000" />
+      <workItem from="1567605199920" duration="26000" />
+      <workItem from="1567605227527" duration="888000" />
+      <workItem from="1567606117979" duration="78000" />
+      <workItem from="1567606197741" duration="50000" />
+      <workItem from="1567606252188" duration="99000" />
+      <workItem from="1567606353021" duration="133000" />
+      <workItem from="1567606488115" duration="603000" />
+      <workItem from="1567703266732" duration="27000" />
+      <workItem from="1568122618283" duration="1306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42945000" />
+    <option name="totallyTimeSpent" value="57922000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,10 +421,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="104" y="312" width="1506" height="919" extended-state="0" />
+    <frame x="280" y="84" width="1506" height="919" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23305671" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25864455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -378,8 +434,8 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3119266" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41677588" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973786" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32965517" />
@@ -400,7 +456,7 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Json Parser" order="6" weight="0.32938564" />
-      <window_info anchor="right" id="Database" order="7" weight="0.32938564" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32918397" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
@@ -454,22 +510,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        <state relative-caret-position="320">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/Start.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        <state relative-caret-position="160">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/main/java/Filter1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/main/java/Session.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+        <state relative-caret-position="452">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -478,8 +546,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/main/java/web3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="220">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>

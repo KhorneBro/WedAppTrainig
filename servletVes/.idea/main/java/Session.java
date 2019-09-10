@@ -13,13 +13,6 @@ public class Session extends HttpServlet {
 
         resp.setContentType ("text/html");
         PrintWriter printWriter = resp.getWriter ();
-//        printWriter.print ("<html>"+
-//                "<body>" +
-//                "<h1> 3rd Name </h1>" +"<form action='web3' method='get'>" + "<input type='text' name='name3'>" +
-//                "<input type'submit' value='next'>"+ "</form>" +
-//                "</body>" +
-//                "</html>");
-
         printWriter.print ("<h2> Ur Parametr after pressing the bottom </h2>");
         printWriter.print ("<form action='web3'>");
         printWriter.print ("<input type='submit' value='next'>");

@@ -7,10 +7,6 @@
 <form action="session" method="get">
     <tr>
         <td> Name <input type="text" name="name1"> </td>
-    </tr>
-
-    <tr>
-    <td>
         <td> 2nd Name <input type="text" name="name2"></td>
         <td> 3nd Name <input type="text" name="name3"></td>
 

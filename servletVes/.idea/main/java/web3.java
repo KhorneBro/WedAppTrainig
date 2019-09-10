@@ -14,12 +14,20 @@ public class web3 extends HttpServlet {
         PrintWriter writer = resp.getWriter();
         HttpSession session = req.getSession();
 
+        Object n1 = session.getAttribute ("name1");
+
+        if (n1 == "1"){
+            RequestDispatcher rd = req.getRequestDispatcher ("/Start.jsp");
+            rd.forward (req, resp);
+        }
+
+
         String title = "Registration";
         String docType = "<!DOCTYPE html>";
 
         writer.println("<html>"+
                "<head><title>" + title + "</title></head>\n"+
-                "<body><h3> Hellow </h3>"
+                "<body><h3> Hello </h3>"
                 + "<p>"+ session.getAttribute ("name2") + "</p>"
                 + "<p>"+ session.getAttribute ("name1") + "</p>"
                 + "<p>"+ session.getAttribute ("name3") + "</p>"
